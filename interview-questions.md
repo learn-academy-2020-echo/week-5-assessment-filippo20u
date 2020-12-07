@@ -35,14 +35,17 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Relational dabtes are dabatases where evrything is stored in rows and columns.
+  Relational dabtes are dabatases where everything is stored in rows and columns.
 
   Researched answer:
 
-  A relational database is a collection of data items with pre-defined relationships between them. Items are organized as a set of tables with columns and rows. 
-  Tables are used to hold information about the objects to be represented in the database. Each column in a table holds a certain kind of data and a field stores the actual value. 
-  The rows in the table represent a collection of related values of one object. Each row in a table is marked with a unique identifier (id).
-  there are a 11 main  types od databases available on the market, depending on the needs.
+  A relational database is a collection of data items with pre-defined relationships between them.
+   Items are organized as a set of tables with columns and rows. 
+  Tables are used to hold information about the objects to be represented in the database. 
+  Each column in a table holds a certain kind of data and a field stores the actual value. 
+  The rows in the table represent a collection of related values of one object. 
+  Each row in a table is marked with a unique identifier (id).
+  There are a 11 main types od databases available on the market, depending on the needs.
 
 
 
@@ -71,7 +74,8 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Researched answer:
 
-  A programming tecnique to convert data between imcompatible sysems using OOP object oriented programming. PRM is time saving because data is written only in one place and it's easier to update and mantain, it's written in the coding language o your choice and it let;s you use OOP with its data inheritance.
+  A programming tecnique to convert data between imcompatible sysems using OOP object oriented programming. 
+  ORM is time saving because data is written only in one place and it's easier to update and mantain, it's written in the coding language o your choice and it let;s you use OOP with its data inheritance.
 
 
 6. What is a gem?
@@ -103,6 +107,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 ## Looking Ahead: Terms for Next Week
 
 Research and define the following terms to the best of your ability.
+
 - RESTful routes
 
   A RESTful route is a route that provides mapping from HTTP verbs to control CRUD actions
